@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sujanpokharel
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pythons
+- 🌱 I’m currently working on NEXT.JS projects
 - 📫 How to reach me pokharelsujan07@gmail.com
 
 
